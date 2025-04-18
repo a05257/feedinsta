@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+
+body{
+ margin:0;
+ overflow:hidden;
+}
+
+iframe{
+ border:none;
+ width:100vw;
+ height:100vh;
+}
+
+</style>
+</head>
+<body>
+
+<iframe src="https://avinazh.kesug.com/8-2/"></iframe>
+
+</body>
+</html>
